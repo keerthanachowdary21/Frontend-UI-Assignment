@@ -22,10 +22,8 @@ Responsive employee directory with CRUD operations, filtering, sorting, and pagi
 
 ## Project Structure
 - `/index.html`: Main dashboard
-- `/form.html`: Employee form
-- `/css/style.css`: Stylesheets
-- `/js/app.js`: Main application logic
-- `/js/form.js`: Form validation logic
+- `/styles.css`: Stylesheets
+- `/script.js`: Main application logic
 
 ## Technical Implementation
 - **Responsive Design**: Flexbox/Grid with media queries
